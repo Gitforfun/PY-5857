@@ -1,1 +1,11 @@
-{"name": "John", "lastname": "Doe", "age": 30, "likes": [1, 2, 3, 4]}
+{
+  "name": "John",
+  "lastname": "Doe",
+  "age": 30,
+  "likes": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

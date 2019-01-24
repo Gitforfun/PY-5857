@@ -1,5 +1,6 @@
 number = [4, 8, 15, 16]
 
+
 # for x in number:
 #     x = x + 1
 #     print(x)
@@ -16,6 +17,7 @@ def test(my_list: list):
     a = my_list[:]
     a.remove(4)
     print(a)
+
 
 test(number)
 print(number)
